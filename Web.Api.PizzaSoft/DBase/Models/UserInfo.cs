@@ -1,6 +1,7 @@
-﻿using System;
+﻿using DBase.EntityFrameWork.EntityFrameWork.Models;
+using System;
 
-namespace DBase.Models
+namespace DBase.EntityFrameWork.Models
 {
     public class UserInfo
     {
@@ -9,6 +10,8 @@ namespace DBase.Models
         public string LastName { get; set; }
         public DateTime SignUpDate { get; set; }
 
-        public virtual UserCredentials UserCredentials { get; set; }
+        public int UserCredentialId { get; set; }
+
+        public virtual UserCredential UserCredential { get; set; }
     }
 }

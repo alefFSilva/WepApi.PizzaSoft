@@ -1,11 +1,11 @@
-﻿using DBase.Models;
+﻿using DBase.EntityFrameWork.EntityFrameWork.Models;
 using System.Data.Entity.ModelConfiguration;
 
-namespace DBase.Maps
+namespace DBase.EntityFrameWork.Maps
 {
-    public class UserCredentialsMap : EntityTypeConfiguration<UserCredentials>
+    public class UserCredentialMap : EntityTypeConfiguration<UserCredential>
     {
-        public UserCredentialsMap()
+        public UserCredentialMap()
         {
             HasKey(p => p.Id);
 

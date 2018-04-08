@@ -46,3 +46,4 @@ C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\Web.Api.PizzaSoft\obj\Debu
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\Web.Api.PizzaSoft\obj\Debug\Web.Api.PizzaSoft.csproj.CoreCompileInputs.cache
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\Web.Api.PizzaSoft\obj\Debug\Web.Api.PizzaSoft.dll
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\Web.Api.PizzaSoft\obj\Debug\Web.Api.PizzaSoft.pdb
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\Web.Api.PizzaSoft\obj\Debug\Web.Api.PizzaSoft.csproj.CopyComplete

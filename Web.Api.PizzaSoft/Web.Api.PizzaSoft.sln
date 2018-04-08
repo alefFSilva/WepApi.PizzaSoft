@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api.PizzaSoft", "Web.Api.PizzaSoft\Web.Api.PizzaSoft.csproj", "{2FFBF142-CC0B-4BC8-929F-6B8708276759}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBase", "DBase\DBase.csproj", "{ED028E9F-6F08-47D9-9688-D8D0BBB5B562}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBase.EntityFrameWork", "DBase\DBase.EntityFrameWork.csproj", "{ED028E9F-6F08-47D9-9688-D8D0BBB5B562}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

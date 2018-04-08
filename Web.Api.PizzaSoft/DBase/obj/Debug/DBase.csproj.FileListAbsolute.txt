@@ -9,3 +9,4 @@ C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.cspr
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.csproj.CoreCompileInputs.cache
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.dll
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.pdb
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.csproj.CopyComplete

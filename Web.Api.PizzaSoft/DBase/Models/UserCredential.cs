@@ -1,14 +1,11 @@
 ﻿using System;
 
-namespace DBase.Models
+namespace DBase.EntityFrameWork.EntityFrameWork.Models
 {
-    public class UserCredentials
+    public class UserCredential
     {
         public int Id { get; set; }
-        public int userInfoId { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
-
-        public virtual UserInfo UserInfo { get; set;}
     }
 }

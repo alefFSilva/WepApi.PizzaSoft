@@ -1,7 +1,7 @@
-﻿using DBase.Models;
+﻿using DBase.EntityFrameWork.Models;
 using System.Data.Entity.ModelConfiguration;
 
-namespace DBase.Maps
+namespace DBase.EntityFrameWork.EntityFrameWork.Maps
 {
     public class UserInfoMap : EntityTypeConfiguration<UserInfo>
     {
@@ -18,10 +18,10 @@ namespace DBase.Maps
                 .IsRequired();
 
             Property(p => p.SignUpDate)
-                .IsRequired();
-
-            HasRequired(u => u.UserCredentials)
-                .WithRequiredDependent(u => u.UserInfo);              
+                .IsRequired();            
+            
         }
+
+        
     }
 }
