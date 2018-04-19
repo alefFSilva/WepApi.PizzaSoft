@@ -1,4 +1,3 @@
-C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.EntityFrameWork.csprojResolveAssemblyReference.cache
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.EntityFrameWork.csproj.CoreCompileInputs.cache
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.dll
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.pdb
@@ -12,3 +11,4 @@ C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\bin\Debug\EntityFram
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.EntityFrameWork.csproj.CopyComplete
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.EntityFrameWork.Migrations.Tables_UserInfo_UserCredential.resources
 C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.EntityFrameWork.csproj.GenerateResource.cache
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Debug\DBase.EntityFrameWork.csprojResolveAssemblyReference.cache

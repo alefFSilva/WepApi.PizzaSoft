@@ -1,0 +1,9 @@
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\AppCore\bin\Debug\AppCore.dll
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\AppCore\bin\Debug\AppCore.pdb
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\AppCore\obj\Debug\AppCore.csproj.CoreCompileInputs.cache
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\AppCore\obj\Debug\AppCore.dll
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\AppCore\obj\Debug\AppCore.pdb
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\AppCore\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\AppCore\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\AppCore\obj\Debug\AppCore.csproj.CopyComplete
+C:\Dev\NET\WebApis\WebApi.PizzaSoft\Web.Api.PizzaSoft\AppCore\obj\Debug\AppCore.csprojResolveAssemblyReference.cache
