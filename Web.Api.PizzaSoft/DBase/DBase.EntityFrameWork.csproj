@@ -51,9 +51,9 @@
     <Compile Include="Context\DataBaseContext.cs" />
     <Compile Include="Maps\UserCredentialMap.cs" />
     <Compile Include="Maps\UserInfoMap.cs" />
-    <Compile Include="Migrations\201804072050188_Tables_UserInfo_UserCredential.cs" />
-    <Compile Include="Migrations\201804072050188_Tables_UserInfo_UserCredential.Designer.cs">
-      <DependentUpon>201804072050188_Tables_UserInfo_UserCredential.cs</DependentUpon>
+    <Compile Include="Migrations\201805040145435_User_Tables.cs" />
+    <Compile Include="Migrations\201805040145435_User_Tables.Designer.cs">
+      <DependentUpon>201805040145435_User_Tables.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\UserCredential.cs" />
@@ -67,8 +67,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201804072050188_Tables_UserInfo_UserCredential.resx">
-      <DependentUpon>201804072050188_Tables_UserInfo_UserCredential.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201805040145435_User_Tables.resx">
+      <DependentUpon>201805040145435_User_Tables.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

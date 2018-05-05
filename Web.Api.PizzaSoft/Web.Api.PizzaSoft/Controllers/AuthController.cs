@@ -2,34 +2,25 @@
 using AppCore.PizzaSoft.Web.Common.Response;
 using AppCore.PizzaSoft.Web.Contracts.POCOs;
 using System;
-using System.Text;
 using System.Web.Mvc;
 
 namespace Web.Api.PizzaSoft.Controllers
 {
     public class AuthController : Controller
     {
-        // GET: Auth
-        public JsonResult Index()
-        {
-            var tst = Request.Headers["email"];
-            AuthService authService = new AuthService();
-
-            return Json(tst, JsonRequestBehavior.AllowGet);
-        }
-
         [AllowAnonymous]
         public JsonResult DoLogin()
         {
-            var response = new BaseResponse<UserInfo>();
+            var result = new BaseResponse<UserInfoPOCO>();
             string autorizationHeader = Request.Headers["Authorization"];
+
             if (!String.IsNullOrEmpty(autorizationHeader))
             {
                 var authService = new AuthService();
-                response = authService.DoLogin(autorizationHeader);
-            }
+                authService.DoLogin(autorizationHeader, result);
+            }           
 
-            return Json(response, JsonRequestBehavior.AllowGet);
+            return Json(result , JsonRequestBehavior.AllowGet);
         }
     }
 }

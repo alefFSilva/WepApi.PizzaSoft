@@ -30,10 +30,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -46,12 +53,20 @@
     <Compile Include="Class1.cs" />
     <Compile Include="PizzaSoft.Web\Bussines\Auth\AuthService.cs" />
     <Compile Include="PizzaSoft.Web\Common\Response\BaseResponse.cs" />
-    <Compile Include="PizzaSoft.Web\Contracts\POCOs\UserInfo.cs" />
+    <Compile Include="PizzaSoft.Web\Contracts\POCOs\UserCredentialPOCO.cs" />
+    <Compile Include="PizzaSoft.Web\Contracts\POCOs\UserInfoPOCO.cs" />
+    <Compile Include="PizzaSoft.Web\Framework\MD5Hash.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\DBase\DBase.EntityFrameWork.csproj">
+      <Project>{ED028E9F-6F08-47D9-9688-D8D0BBB5B562}</Project>
+      <Name>DBase.EntityFrameWork</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,14 @@
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\bin\Release\DBase.dll.config
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\bin\Release\DBase.dll
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\bin\Release\DBase.pdb
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\bin\Release\EntityFramework.dll
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\bin\Release\EntityFramework.SqlServer.dll
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\bin\Release\EntityFramework.xml
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\bin\Release\EntityFramework.SqlServer.xml
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Release\DBase.EntityFrameWork.csprojResolveAssemblyReference.cache
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Release\DBase.EntityFrameWork.Migrations.Tables_UserInfo_UserCredential.resources
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Release\DBase.EntityFrameWork.csproj.GenerateResource.cache
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Release\DBase.EntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Release\DBase.EntityFrameWork.csproj.CopyComplete
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Release\DBase.dll
+C:\Dev\Estudos\PizzaSoft\WebApi.PizzaSoft\Web.Api.PizzaSoft\DBase\obj\Release\DBase.pdb

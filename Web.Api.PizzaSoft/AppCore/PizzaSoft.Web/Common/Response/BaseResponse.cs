@@ -6,8 +6,8 @@ namespace AppCore.PizzaSoft.Web.Common.Response
     [JsonObject]
     public class BaseResponse<T> where T : new()
     {
-        [JsonProperty(PropertyName = "sucess")]
-        public bool Success { get; set; }
+        [JsonProperty(PropertyName = "success")]
+        public bool success { get; set; }
 
         [JsonProperty(PropertyName = "messages")]
         public List<string> Messages { get; set; }
